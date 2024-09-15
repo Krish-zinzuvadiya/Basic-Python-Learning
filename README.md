@@ -9,5 +9,5 @@ You can use Python 3.6 or any newer Python with this tutorial. Don't use Python 
 Get Updated Follow My Github : https://github.com/Krish-zinzuvadiya
 
 # List
-1. Variables & DataTypes : https://github.com/Krish-zinzuvadiya/Basic-Python-Learning/tree/main/1.%20Variables%20%26%20Data%20Types
+1. Variables & DataTypes : https://git.new/Program123
 2. Strings & Conditional Statements : https://git.new/Program1
