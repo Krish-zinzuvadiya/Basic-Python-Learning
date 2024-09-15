@@ -9,3 +9,4 @@ You can use Python 3.6 or any newer Python with this tutorial. Don't use Python 
 
 # List
 1. Variables & DataTypes : https://github.com/Krish-zinzuvadiya/Basic-Python-Learning/tree/main/1.%20Variables%20%26%20Data%20Types
+2. Strings & Conditional Statements : 
