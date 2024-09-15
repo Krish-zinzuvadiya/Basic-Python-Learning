@@ -5,3 +5,7 @@ This is a concise Python 3 programming tutorial for people who think that readin
 This tutorial is aimed at people with no programming experience at all or very little programming experience. 
 
 You can use Python 3.6 or any newer Python with this tutorial. Don't use Python 2 because it's no longer supported.
+
+
+# List
+1. Variables & DataTypes
