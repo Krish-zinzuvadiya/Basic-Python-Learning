@@ -6,6 +6,7 @@ This tutorial is aimed at people with no programming experience at all or very l
 
 You can use Python 3.6 or any newer Python with this tutorial. Don't use Python 2 because it's no longer supported.
 
+Get Updated Follow My Github : https://github.com/Krish-zinzuvadiya
 
 # List
 1. Variables & DataTypes : https://github.com/Krish-zinzuvadiya/Basic-Python-Learning/tree/main/1.%20Variables%20%26%20Data%20Types
