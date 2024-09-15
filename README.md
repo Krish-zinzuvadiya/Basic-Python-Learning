@@ -9,6 +9,6 @@ You can use Python 3.6 or any newer Python with this tutorial. Don't use Python 
 Get Updated Follow My Github : https://github.com/Krish-zinzuvadiya
 
 # List
-1. Variables & DataTypes : https://git.new/Program123
+1. Variables & DataTypes : https://git.new/Program1
 2. Strings & Conditional Statements : https://git.new/Program2
 3. Lists & Tuples : https://git.new/program3
