@@ -1,3 +1,5 @@
+![Temporal Python Tutorial](https://learn.temporal.io/assets/images/banner_python-0d345d125b6892840c54f7e1460c8a5a.png)
+
 # Welcome to Basic Python Learning!
 This repository is a concise Python 3 programming tutorial designed for beginners with little to no programming experience. The tutorial is structured into 9 modules, each covering a specific topic in Python programming.
 
