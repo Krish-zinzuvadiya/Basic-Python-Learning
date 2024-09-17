@@ -1,6 +1,9 @@
 # Welcome to Basic Python Learning!
 This repository is a concise Python 3 programming tutorial designed for beginners with little to no programming experience. The tutorial is structured into 9 modules, each covering a specific topic in Python programming.
 
+# Introduction:
+Python is a high-level programming language for general-purpose programming. It is an open source, interpreted, objected-oriented programming language. Python was created by a Dutch programmer, Guido van Rossum. The name of Python programming language was derived from a British sketch comedy series, Monty Python's Flying Circus. The first version was released on February 20, 1991.
+
 # Installation:
 To use this tutorial, you need to have Python 3.6 or any newer version installed on your system.
 Website Link : https://www.python.org/
