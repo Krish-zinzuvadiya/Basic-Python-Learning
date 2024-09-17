@@ -1,20 +1,27 @@
-# Basic Python Programming
+# Welcome to Basic Python Learning!
+This repository is a concise Python 3 programming tutorial designed for beginners with little to no programming experience. The tutorial is structured into 9 modules, each covering a specific topic in Python programming.
 
-This is a concise Python 3 programming tutorial for people who think that reading is boring. I try to show everything with simple code examples; there are no long and complicated explanations with fancy words. 
+# Modules:
+• Variables & DataTypes : https://git.new/Program1
 
-This tutorial is aimed at people with no programming experience at all or very little programming experience. 
+• Strings & Conditional Statements : https://git.new/Program2
 
-You can use Python 3.6 or any newer Python with this tutorial. Don't use Python 2 because it's no longer supported.
+• Lists & Tuples : https://git.new/program3
 
-Get Updated Follow My Github : https://github.com/Krish-zinzuvadiya
+• Dictionary & Set : https://git.new/program4
 
-# List
-1. Variables & DataTypes : https://git.new/Program1
-2. Strings & Conditional Statements : https://git.new/Program2
-3. Lists & Tuples : https://git.new/program3
-4. Dictionary & Set : https://git.new/program4
-5. Loops : https://git.new/program5
-6. Functions & Recursion : https://git.new/program6
-7. File I/O : https://git.new/program7
-8. OOPS Part-1 : https://git.new/program8
-9. OOPS Part-2 : https://git.new/program9
+• Loops : https://git.new/program5
+
+• Functions & Recursion : https://git.new/program6
+
+• File I/O : https://git.new/program7
+
+• OOPS Part-1 : https://git.new/program8
+
+• OOPS Part-2 : https://git.new/program9
+
+# About this Tutorial:
+This tutorial aims to provide a hands-on learning experience with simple code examples, making it easy to understand and follow along. You can use Python 3.6 or any newer version with this tutorial.
+
+# Stay Updated:
+Follow me on GitHub for more updates and tutorials: https://github.com/Krish-zinzuvadiya
