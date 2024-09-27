@@ -1,3 +1,4 @@
+# Match Case : (Just Like Switch Cases)
 i = int(input("Enter Number : "))
 
 match i:
